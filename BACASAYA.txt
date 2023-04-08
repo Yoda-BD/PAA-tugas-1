@@ -1,0 +1,14 @@
+PS C:\Users\ROG STRIX G15 G512LU\Downloads\PAA\tugas_jwt\next-jwt-app> npx prisma generate
+
+PS C:\Users\ROG STRIX G15 G512LU\Downloads\PAA\tugas_jwt\next-jwt-app> npx prisma migrate dev  disini untuk memigrasi database sesuai .env
+
+PS C:\Users\ROG STRIX G15 G512LU\Downloads\PAA\tugas_jwt\next-jwt-app> npm i jsonwebtoken
+
+PS C:\Users\ROG STRIX G15 G512LU\Downloads\PAA\tugas_jwt\next-jwt-app> npm i bcrypt      
+
+PS C:\Users\ROG STRIX G15 G512LU\Downloads\PAA\tugas_jwt\next-jwt-app> npm run build untuk run request
+
+PS C:\Users\ROG STRIX G15 G512LU\Downloads\PAA\tugas_jwt\next-jwt-app> npm run dev  untuk run next
+
+
+test di  thunder client untuk test login dsb tanpa susah susah membuat interface test
